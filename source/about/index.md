@@ -19,7 +19,7 @@ mermaid: true
 
 **查看在线地图？**
 
-正在构建，请稍等。
+点击链接[https://map.unh.world/](https://map.unh.world/)
 
 {% endnote %}
 
