@@ -13,13 +13,15 @@ mermaid: true
 
 
 ## 当前结构
+
 当前的<span class="mc-font">UNH</span>服务器建立在北京大学校内，可以同时通过校园网和外网进行访问。
 
 {% note success %}
 
-**查看在线地图？**
+**自助开服？**
 
-点击链接[https://map.unh.world/](https://map.unh.world/)
+**点击链接 [https://mcsm.unh.world/](https://mcsm.unh.world/) 登陆即可自助开服**
+![server-info](../img/server-info.png)
 
 {% endnote %}
 
@@ -37,7 +39,8 @@ old时期             :done,    des1, 2019-11-11,2020-02-01
 main时期            :done,  des2, 2020-02-01, 2020-06-11
 pkuhub时期          :done, des3, 2020-06-11, 2020-11-20
 五代十国时期            :done, des4, 2020-11-20, 2021-06-11
-UNH时期               :active, des5, 2021-06-11, 2021-07-05
+UNH时期               :done, des5, 2021-06-11, 2021-07-05
+OP在创业时期           :done, des6, 2021-07-06, 2022-02-16
 {% endmermaid %}
 
 历史记载请看[史记文集](./posts/)，硬件升级的具体内容详见{% post_link 'lishi' %}
@@ -50,6 +53,8 @@ UNH时期               :active, des5, 2021-06-11, 2021-07-05
 <div class="responsive-video-container">
 <iframe src="//player.bilibili.com/player.html?aid=796183259&bvid=BV1BC4y187Nv&cid=207126061&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div>
 
-# 加入我们&nbsp;&nbsp;<a href="mailto:alicespace@pku.edu.cn"><i class="iconfont icon-mail" style="font-size: 2.0rem;"></i></a>
+# 加入我们  <a href="mailto:alicespace@pku.edu.cn"><i class="iconfont icon-mail" style="font-size: 2.0rem;"></i></a>
 
-请点击上方的邮箱按钮，与我们的管理员邮件联系，说明身份后可以加入服务器参观和游玩。
+- QQ (OP): `1264375237`
+- Mail (OP): `alicespace@pku.edu.cn`
+- 微信 (OP): `15398027057`
