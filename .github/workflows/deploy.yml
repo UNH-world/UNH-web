@@ -15,11 +15,10 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '14'
-      - uses: borales/actions-yarn@v2.3.0
-        with:
-          cmd: install # will run `yarn install` command
       - run: |
+          apt install autoconf -y
           yarn global add hexo-cli
+          yarn install
           hexo generate
       - uses: manyuanrong/setup-ossutil@v2.0
         with:
