@@ -946,7 +946,7 @@ static_prefix:
 
   anchor: https://cdn.staticfile.org/anchor-js/4.3.1/
 
-  github_markdown: https://cdn.staticfile.org/github-markdown-css/5.1.0/
+  github_markdown: https://cdn.staticfile.org/github-markdown-css/4.0.0/
 
   jquery: https://cdn.staticfile.org/jquery/3.6.0/
 
@@ -966,13 +966,13 @@ static_prefix:
 
   mathjax: https://cdn.staticfile.org/mathjax/3.1.4/es5/
 
-  katex: https://cdn.staticfile.org/KaTeX/0.15.2/
+  katex: https://cdn.staticfile.org/KaTeX/0.13.10/
 
   busuanzi: /js
 
   clipboard: https://cdn.staticfile.org/clipboard.js/2.0.8/
 
-  mermaid: https://cdn.staticfile.org/mermaid/8.14.0/
+  mermaid: https://cdn.staticfile.org/mermaid/8.10.1/
 
   valine: /js
 
