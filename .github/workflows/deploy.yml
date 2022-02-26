@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: '14'
       - run: |
-          apt install autoconf -y
+          sudo apt install autoconf -y
           yarn global add hexo-cli
           yarn install
           hexo generate
