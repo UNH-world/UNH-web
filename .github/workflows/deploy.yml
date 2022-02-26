@@ -1,0 +1,30 @@
+name: Publish UNH Web
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  publish:
+    name: Publish UNH Web
+    runs-on: ubuntu-latest
+    if: ${{ !contains(github.event.head_commit.message, '[skip-ci]') }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - uses: borales/actions-yarn@v2.3.0
+        with:
+          cmd: install # will run `yarn install` command
+      - run: |
+          yarn global add hexo-cli
+          hexo generate
+      - uses: manyuanrong/setup-ossutil@v2.0
+        with:
+          endpoint: 'oss-cn-beijing.aliyuncs.com'
+          access-key-id: ${{ secrets.ALIYUN_OSS_ACCESSKEY_ID }}
+          access-key-secret: ${{ secrets.ALIYUN_OSS_ACCESSKEY_SECRET }}
+      - run: |
+          ossutil cp -rf ./public oss://unh-web/
