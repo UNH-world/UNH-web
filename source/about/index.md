@@ -11,8 +11,24 @@ mermaid: true
 这里是由一群热爱<span class="mc-font">Minecraft</span>的北大人所建造的服务器。
 我们秉承**思想自由，兼容并包**的原则，平等而开放的对待每一个成员！
 
+## 云上燕园项目
 
-## 当前结构
+<strong>PKUMC｜云上燕园</strong>项目是我们在2020年新冠疫情期间在<span class="mc-font">Minecraft</span>中复原北京大学的一次活动，受到了广泛关注。
+
+<div class="responsive-video-container">
+<iframe src="//player.bilibili.com/player.html?aid=371028310&bvid=BV1EZ4y1H7Z2&cid=202999999&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div>
+
+{% note success %}
+
+### PKUMC服务器地址
+
+#### **北京大学校内**: `inpku.mc.unh.world`
+
+#### **公网**:    `pub.mc.unh.world`
+
+{% endnote %}
+
+## 当前架构
 
 当前的<span class="mc-font">UNH</span>服务器建立在北京大学校内，可以同时通过校园网和外网进行访问。
 
@@ -21,9 +37,10 @@ mermaid: true
 **自助开服？**
 
 **点击链接 [https://mcsm.unh.world/](https://mcsm.unh.world/) 登陆即可自助开服**
-![server-info](../img/server-info.png)
 
 {% endnote %}
+
+![server-info](../img/server-info.png)
 
 ## [历史沿革](./posts/)
 
@@ -44,14 +61,6 @@ OP在创业时期           :done, des6, 2021-07-06, 2022-02-16
 {% endmermaid %}
 
 历史记载请看[史记文集](./posts/)，硬件升级的具体内容详见{% post_link 'lishi' %}
-
-
-## 云上燕园项目
-
-<strong>PKUMC｜云上燕园</strong>项目是我们在2020年新冠疫情期间在<span class="mc-font">Minecraft</span>中复原北京大学的一次活动，受到了广泛关注，详情请看下方视频。
-
-<div class="responsive-video-container">
-<iframe src="//player.bilibili.com/player.html?aid=371028310&bvid=BV1EZ4y1H7Z2&cid=202999999&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div>
 
 # 加入我们  <a href="mailto:alicespace@pku.edu.cn"><i class="iconfont icon-mail" style="font-size: 2.0rem;"></i></a>
 
