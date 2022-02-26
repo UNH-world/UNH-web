@@ -51,7 +51,7 @@ OP在创业时期           :done, des6, 2021-07-06, 2022-02-16
 <strong>PKUMC｜云上燕园</strong>项目是我们在2020年新冠疫情期间在<span class="mc-font">Minecraft</span>中复原北京大学的一次活动，受到了广泛关注，详情请看下方视频。
 
 <div class="responsive-video-container">
-<iframe src="//player.bilibili.com/player.html?aid=796183259&bvid=BV1BC4y187Nv&cid=207126061&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div>
+<iframe src="//player.bilibili.com/player.html?aid=371028310&bvid=BV1EZ4y1H7Z2&cid=202999999&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div>
 
 # 加入我们  <a href="mailto:alicespace@pku.edu.cn"><i class="iconfont icon-mail" style="font-size: 2.0rem;"></i></a>
 
